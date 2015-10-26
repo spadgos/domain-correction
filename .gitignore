@@ -1,0 +1,16 @@
+# local
+.DS_Store
+.idea
+
+# node/npm
+/node_modules
+/vendor
+npm-debug.log
+
+# makefile flag files
+.lint
+.test
+
+# compiled files
+/dist
+coverage

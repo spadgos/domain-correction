@@ -1,0 +1,6 @@
+src/
+.lint
+.test
+coverage/
+.babelrc
+pre-commit.sh
