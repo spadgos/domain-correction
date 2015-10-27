@@ -1,11 +1,11 @@
 {
   "name": "domain-correction",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provide suggested corrections to misspelt email domain names",
   "main": "dist/domain-correction.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/soundcloud/domain-correction"
+    "url": "https://github.com/spadgos/domain-correction"
   },
   "tags": ["email", "host", "domain", "suggest", "suggestion", "correct", "correction", "typo", "autocorrect"],
   "engines": {
